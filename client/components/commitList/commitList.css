@@ -1,0 +1,8 @@
+
+.commit-list ul{
+    list-style-type: none;
+}
+
+.commit-list h2 {
+   display: inline-block
+}
