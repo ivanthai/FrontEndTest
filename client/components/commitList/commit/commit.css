@@ -1,0 +1,12 @@
+.commit {
+  border-bottom:1px solid gray;
+  padding:10px 0px;
+}
+
+.commit div {
+  padding: 10px 0px;
+}
+
+.commit.lightblue{
+  background-color: #E6F1F6;
+}
