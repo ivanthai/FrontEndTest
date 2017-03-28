@@ -1,0 +1,7 @@
+.commits-list {
+    padding: 10px 0;
+}
+
+a:hover {
+    color: red;
+}
